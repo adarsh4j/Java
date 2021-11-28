@@ -1,0 +1,23 @@
+//STRING METHOD//
+
+   //SUBSTRING METHOD//
+
+public class Main {
+
+	public static void main(String args[])	{
+
+		String name="ABCDE";
+
+		System.out.println(name);
+
+		String answer=name.substring(1);
+
+		//Here answer is just an variable to show the substring format//
+
+		System.out.println(answer);
+
+	}
+
+	
+
+}

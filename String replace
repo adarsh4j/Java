@@ -1,0 +1,15 @@
+public class Main {
+
+	public static void main(String args[])	{
+
+	  String name="ABCDE";
+
+	  System.out.println(name);
+
+	  String value = name.replace("C","F"); 
+
+	  System.out.println(value);
+
+	}
+
+}

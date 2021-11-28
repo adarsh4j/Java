@@ -1,0 +1,19 @@
+public class Main {
+
+	public static void main(String args[])	{
+
+	  String name="ABCDE";
+
+	  System.out.println(name);
+
+	  String value = name.substring(1,5);
+
+	  //Here string moves from position of 1 and end to 4 ,not 5//
+
+	  System.out.println(value);
+
+	  //Here value is just only a variable//
+
+	}
+
+}

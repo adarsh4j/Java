@@ -1,0 +1,13 @@
+public class Main {
+
+	public static void main(String[] args) {		String name="Adarsh";
+
+		System.out.println(name);
+
+		int value=name.length();
+
+		System.out.println(value);
+
+	}
+
+}

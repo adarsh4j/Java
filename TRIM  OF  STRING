@@ -1,0 +1,14 @@
+public class Main {
+
+	public static void main(String[] args){	      	
+          String name="        Harry        ";
+
+          	System.out.println(name);
+
+                String value=name.trim();
+
+                System.out.println(value);
+
+	}
+
+}

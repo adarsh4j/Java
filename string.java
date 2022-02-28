@@ -1,4 +1,4 @@
-public class Main {
+public class string {
 
 	public static void main(String[] args) {		String name="Harryrryrry";
 

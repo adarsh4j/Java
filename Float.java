@@ -1,4 +1,4 @@
-public class Main {
+public class Float{
 
 	public static void main(String[] args) {		int a=4;
 
